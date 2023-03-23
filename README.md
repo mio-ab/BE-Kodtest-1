@@ -9,7 +9,7 @@
 ## Instruktioner:
 
 1. Skapa ett nytt ASP.NET Core Web API-projekt.
-2. Konfigurera en ny databas med Entity Framework Core. Använd medföljande db.json-fil för att seeda databasen.
+2. Konfigurera en ny databas med Entity Framework Core. Använd filen products.json för att seeda databasen med produkter.
 3. Utforma och implementera följande databasmodeller:
 - Product
     - Id (int, primärnyckel)
