@@ -31,7 +31,7 @@
     - ProductId (int, främmande nyckel till Product)
     - Quantity (int, obligatorisk)
     - Price (decimal, obligatorisk)
-4. Implementera följande API-slutpunkter:
+4. Implementera följande API-endpoints:
 - Products
     - GET /api/products: Hämta en lista över alla produkter
     - GET /api/products/{id}: Hämta en enskild produkt med dess ID
@@ -43,9 +43,9 @@
     - GET /api/orders/{id}: Hämta en enskild beställning med dess ID
     - POST /api/orders: Lägg till en ny beställning (se till att lager uppdateras)
     - DELETE /api/orders/{id}: Ta bort en beställning (se till att lager uppdateras)        
-5. Implementera nödvändiga valideringskontroller och felhantering för API-slutpunkterna.
+5. Implementera nödvändiga valideringskontroller och felhantering för API-endpoints.
 6. Skriv enhetstester för att täcka huvudfunktionaliteten i API:et.
-7. Dokumentera dina API-slutpunkter med Swagger eller liknande verktyg.
+7. Dokumentera dina API-endpoints med Swagger eller liknande verktyg.
 
 ## Leveranser:
 
@@ -55,7 +55,7 @@
 ## Utvärderingskriterier:
 
 1. Kvalitet och organisering av koden
-2. Korrekt implementering av de angivna databasmodellerna och API-slutpunkterna
+2. Korrekt implementering av de angivna databasmodellerna och API-endpoints
 3. Valideringskontroller och felhantering
 4. Enhetstesttäckning
 5. API-dokumentation
