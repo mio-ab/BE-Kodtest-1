@@ -1,8 +1,6 @@
 # Onlinebutik API
 
-<b>Syfte</b>: Skapa ett enkelt onlinebutik-API med C# och .NET som låter användare hantera produkter och beställningar.
-
-<b>Varaktighet</b>: 4 timmar
+<b>Syfte</b>: Skapa ett enkelt onlinebutik-API med C# och .NET som låter en onlinebutik förse kunder med information om produkter och lägga ordrar. Likväl som ett administrativt system kan administrera nya produkter och ordrar.
 
 <b>Verktyg/Tekniker</b>: C#, .NET, ASP.NET Core, Entity Framework Core, MS SQL Server (eller annan föredragen databas)
 
